@@ -2,7 +2,7 @@
 
 > Airport wifi login portal with validation
 
-(Demo here)[https://spark-airport.netlify.com/]
+[Demo here](https://spark-airport.netlify.com/)
 
 ## Project setup
 
